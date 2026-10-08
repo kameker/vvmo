@@ -1,0 +1,1 @@
+https://github.com/kameker/vvmo/blob/main/task1/ibm_analysis.py
